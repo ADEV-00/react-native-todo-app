@@ -1,1 +1,3 @@
-"# react-native-todo-app" 
+# Todo App
+
+# This is simple Todo App made using React Native
